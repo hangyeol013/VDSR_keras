@@ -5,7 +5,7 @@ A implementation of the original paper ['Accelerating Image Super-Resolution Usi
 
 
 
-<center><img width = "800" src="https://user-images.githubusercontent.com/58276840/95052310-aba98800-0729-11eb-9c45-a520eb98b3ed.png"></center>
+<center><img width = "800" src="![Uploading VDSR_network.png…]()"></center>
 
 
 
