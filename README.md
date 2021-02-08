@@ -11,6 +11,8 @@ A implementation of the original paper ['Accelerating Image Super-Resolution Usi
 
 tensorflow-gpu 2.0.0, keras 2.3.1 based implementation on Python 3.6.9, using Jupyter Notebook.
 
+(I converted the .ipynb file to .py file)
+
 
 
 
@@ -61,4 +63,4 @@ You can generate dataset (training sample, test sample) through matlab files in 
 
 I also uploaded the trained weight files.
 
-With VDSR_main.ipynb file and weight file in 'weight', you can test the network for all scales (x2, x3, x4).
+With VDSR_main.py file and weight file in 'weight', you can test the network for all scales (x2, x3, x4).
